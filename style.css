@@ -1,0 +1,20 @@
+body{
+background-image: url("wp6355681.png");
+background-size: cover;
+}
+
+.heading{
+box-shadow: 5px 5px 18px blue;
+width: 80%;
+}
+
+canvas{
+border-style: solid;
+border-width: 3px;
+border-color: white;
+}
+
+.l{
+float: right;
+margin-bottom: 300px;
+}
